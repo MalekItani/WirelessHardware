@@ -5,7 +5,9 @@ Welcome to the repository containing the circuit design files for wireless earbu
 This repository contains the following files:
 
 **Schematics**: Detailed diagrams of the circuitry used in the wireless earbuds.
+
 **PCB layouts**: Physical layouts of the printed circuit board used in the wireless earbuds.
+
 **Bill of materials**: A list of all the necessary components and materials needed to build the wireless earbuds.
 
 ## How to use
