@@ -11,7 +11,7 @@ This repository contains the following directories:
 **Bill of materials**: A list of all the necessary components and materials needed to build the wireless earbuds.
 
 ## How to use
-To use these circuit design files, you will need a circuit design software such as Altium Designer, Eagle, or KiCad. Simply import the schematics and PCB layouts into your preferred software and you can begin customizing and optimizing the design to fit your specific needs.
+To use these circuit design files, you will need the circuit design software KiCad. Simply import the schematics and PCB layouts into your preferred software and you can begin customizing and optimizing the design to fit your specific needs.
 
 ## License
 This repository is licensed under the MIT License. You are free to use and modify the circuit design files in any way you see fit, as long as you include the appropriate attribution and comply with the terms of the license.
