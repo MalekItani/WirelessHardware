@@ -1,13 +1,8 @@
 # Wireless Hardware
 Welcome to the repository containing the circuit design files for wireless earbuds! In this repository, you will find all the necessary files to create your own wireless earbuds, including schematics, PCB layouts, and bill of materials.
 
-## Hardware Dependencies/Requirements
-
-- Segger J-link EDU programmer
-
 ## Software Dependencies/Requirements
 
-- Segger Embedded studio IDE
 - Kicad version 4.0 or greater.
 
 
@@ -22,6 +17,9 @@ This repository contains the following directories:
 
 ## How to use
 To use these circuit design files, you will need the circuit design software KiCad. Simply import the schematics and PCB layouts into your preferred software and you can begin customizing and optimizing the design to fit your specific needs.
+
+## 
+The repository containing the firmware is located [https://github.com/antoniog11/OAEbud-software](https://github.com/antoniog11/OAEbud-software/)
 
 ## License
 This repository is licensed under the MIT License. You are free to use and modify the circuit design files in any way you see fit, as long as you include the appropriate attribution and comply with the terms of the license.
