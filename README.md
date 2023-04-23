@@ -18,9 +18,11 @@ This repository contains the following directories:
 ## Getting Started
 To use these circuit design files, follow the steps below:
 
-1. **Install KiCad**: Download and install KiCad version 4.0 or greater from the official website. Choose the appropriate version for your operating system.
+#### 1. Install KiCad: 
+Download and install KiCad version 4.0 or greater from the official website. Choose the appropriate version for your operating system.
 
-2. **Customize and Optimize**: Import the schematics and PCB layouts into KiCad to begin customizing and optimizing the design to fit your specific needs. For detailed instructions on using KiCad, consult the official documentation.
+#### 2. Customize and Optimize: 
+Import the schematics and PCB layouts into KiCad to begin customizing and optimizing the design to fit your specific needs. For detailed instructions on using KiCad, consult the official documentation.
 
 ## Firmware
 The repository containing the firmware is located here: [https://github.com/antoniog11/OAEbud-software](https://github.com/antoniog11/OAEbud-software/)
