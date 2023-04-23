@@ -25,7 +25,7 @@ Download and install KiCad version 4.0 or greater from the official website. Cho
 Import the schematics and PCB layouts into KiCad to begin customizing and optimizing the design to fit your specific needs. For detailed instructions on using KiCad, consult the official documentation.
 
 ## Firmware
-The repository containing the firmware is located here: [https://github.com/antoniog11/OAEbud-software](https://github.com/antoniog11/OAEbud-software/)
+The repository containing the firmware is located here: [https://github.com/antoniog11/OAEbud-firmware](https://github.com/antoniog11/OAEbud-firmware/)
 
 ## License
 This repository is licensed under the MIT License. You are free to use and modify the circuit design files in any way you see fit, as long as you include the appropriate attribution and comply with the terms of the license.
